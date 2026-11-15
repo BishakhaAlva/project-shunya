@@ -33,7 +33,6 @@ Factors considered: Audience 7-12 (plain language, big targets, icons+text+numbe
 |---|---|
 | CSA - Food Production on the Moon and in Remote Areas | https://asc-csa.gc.ca |
 | Google Fonts - Fredoka and Nunito | https://fonts.google.com |
-| AI-assisted title art + hand-built SVG (declared, no NASA logos) | https://github.com/BishakhaAlva/project-shunya/tree/sol-patrol-mission-trainer |
 
 ## Still to fill before you press Submit (only you can)
 
