@@ -3,7 +3,7 @@
 **Spend the sunshine. Survive the night.**
 
 ▶ Demo (30s): *(record and paste your unlisted video URL here before submitting — script below)*
-Live play: *(paste your deployed URL here)* · Deploy root = this folder (`junior-astronaut-trainer/`)
+Live play: https://devodg.github.io/sol-patrol/ · Deployed via GitHub Pages · Source: https://github.com/DevodG/sol-patrol
 
 NASA Space Apps Challenge 2026 · *Build a Junior Astronaut Mission Trainer* · For kids ages 7–12. Minimum browser: Chrome/Safari 14+.
 
